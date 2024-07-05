@@ -18,3 +18,6 @@ cd bin/src/mapeditor
 java MapEditor
 cmd kill
 ```
+**Dev Note:**Hi again, I saw something.You should do the things in the video after you unzip the file:
+https://dosya.co/tlc55yjsv77u/2024-07-05_12-05-04.mp4.html
+
